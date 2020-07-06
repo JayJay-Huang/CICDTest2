@@ -7,7 +7,7 @@ namespace 練習介接API.Models
 {
     public class demo
     {
-        public string da = "拉拉拉1111";
+        public string da = "拉拉拉";
     }
 }
 
